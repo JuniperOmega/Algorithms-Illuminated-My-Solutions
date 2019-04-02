@@ -12,7 +12,7 @@ My programming solutions are written in C++ using Windows 10 Ubuntu Bash Shell. 
 * [Usage](#Usage)
 
 ## Setup
-To run any of these files, install it locally on your machine. Feel free to run and compile the programs on your favorite IDE or terminal.
+To run any of these files, download/clone it locally to your machine. Feel free to run and compile the programs on your favorite IDE or terminal, or run via Linux terminal
 If you would like to install Ubuntu on Windows 10 please follow the link below:
 
 ```
