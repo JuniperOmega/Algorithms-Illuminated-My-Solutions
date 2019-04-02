@@ -22,10 +22,10 @@ https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-
 ```
 Once your setup is complete and configured. Download and save the file to a directory. If you would like to create your directory right from the bash shell then please follow the instructions below:
 
-```
-type "mkdir [directory_name]" on the command prompt to create your directory
+To clone the repository
 
-$ mkdir algorithms
-
-Be aware that the directory will be created in the current working directory 
+From the command prompt, move (cd) to the directory in which you would like to save and execute the file(s), and type
 ```
+$ mkdir algorithms 
+```
+where algorithms is the name I give to the created directory
