@@ -21,7 +21,7 @@ Installation tutorial written by Chris Hoffman
 
 https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/
 ```
-Once your setup is complete and configured. Download and save the file to a directory. If you would like to create your directory right from the bash shell then please follow the instructions below:
+Once your setup is complete and configured, download and save the file to a directory. If you would like to create your directory right from the bash shell then please follow the instructions below:
 
 From the command prompt, move (cd) to the directory in which you would like to save and execute the file(s), and type
 ```
