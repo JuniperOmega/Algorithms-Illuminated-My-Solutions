@@ -2,14 +2,14 @@
 
 I am following along a book series by Tim Roughgarden, based on online courses that are currently running on the Coursera and Stanford Lagunita platforms. This documentation highlights my take on the algorithms written in the first series of a four-part series, for Algorithms Illuminated Part 1: The basics
 
-## Description
-
-My programming solutions are written in C++ using Windows 10 Ubuntu Bash Shell. Each of the topics I cover will include various ways to code the algorithm. The algorithms/topics include: asymptotic analysis, big-O notation, divide-and-conquer algorithms, the master method, randomized algorithms, and several famous algorithms for sorting and selection.
-
 ## Table of contents
 * [Description](#Description)
 * [Setup](#Setup)
 * [Usage](#Usage)
+
+## Description
+
+My programming solutions are written in C++ using Windows 10 Ubuntu Bash Shell. Each of the topics I cover will include various ways to code the algorithm. The algorithms/topics include: asymptotic analysis, big-O notation, divide-and-conquer algorithms, the master method, randomized algorithms, and several famous algorithms for sorting and selection.
 
 ## Setup
 To run any of these files, download/clone it locally to your machine. Feel free to run and compile the programs on your favorite IDE or terminal or run via Linux terminal.
@@ -34,7 +34,6 @@ Move to the directory and open a session of your favorite text editor for Linux 
 $ vim example.cpp
 ```
 This will open a blank text editor. (example) is the name of the file, you can name this whatever you would like.
-
 (.cpp) is the extension type of that file. 
 Paste the code I wrote up into the text editor. Write and quit the session (:wq). 
 Make sure you are in NORMAL mode. You will then be redirected back to the Linux terminal. 
