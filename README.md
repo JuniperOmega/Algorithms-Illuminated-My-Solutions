@@ -34,6 +34,7 @@ Move to the directory and open a session of your favorite text editor for Linux 
 $ vim example.cpp
 ```
 This will open a blank text editor. (example) is the name of the file, you can name this whatever you would like.
+
 (.cpp) is the extension type of that file. 
 Paste the code I wrote up into the text editor. Write and quit the session (:wq). 
 Make sure you are in NORMAL mode. You will then be redirected back to the Linux terminal. 
