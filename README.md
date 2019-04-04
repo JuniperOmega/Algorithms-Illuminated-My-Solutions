@@ -21,7 +21,10 @@ Installation tutorial written by Chris Hoffman
 
 https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/
 ```
-Once your setup is complete and configured, download and save the file to a directory. If you would like to create your directory right from the bash shell then please follow the instructions below:
+Once your setup is complete and configured, you can download and save the file to a directory or clone a repository to create a local copy on your computer. 
+
+### 1. Download and save to a directory
+If you would like to create your directory right from the bash shell then please follow the instructions below:
 
 From the command prompt, move (cd) to the directory in which you would like to save and execute the file(s), and type
 ```
@@ -43,3 +46,8 @@ To compile and run the file, type
 $ g++ example.cpp -o example.out 
 ```
 
+### 2. Clone a repository
+To create a local copy on your computer and synchronize between the two locations, you can clone your repository.
+```
+https://help.github.com/en/articles/cloning-a-repository
+```
