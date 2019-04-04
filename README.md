@@ -12,7 +12,8 @@ My programming solutions are written in C++ using Windows 10 Ubuntu Bash Shell. 
 * [Usage](#Usage)
 
 ## Setup
-To run any of these files, download/clone it locally to your machine. Feel free to run and compile the programs on your favorite IDE or terminal, or run via Linux terminal
+To run any of these files, download/clone it locally to your machine. Feel free to run and compile the programs on your favorite IDE or terminal, or run via Linux terminal.
+
 If you would like to install Ubuntu on Windows 10 please follow the link below:
 
 ```
@@ -22,10 +23,8 @@ https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-
 ```
 Once your setup is complete and configured. Download and save the file to a directory. If you would like to create your directory right from the bash shell then please follow the instructions below:
 
-To clone the repository
-
 From the command prompt, move (cd) to the directory in which you would like to save and execute the file(s), and type
 ```
 $ mkdir algorithms 
 ```
-where algorithms is the name I give to the created directory
+where algorithms is the name I give to the created directory. Move to the directory and open a session of your favorite text editor for Linux command line. 
