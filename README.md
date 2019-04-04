@@ -27,4 +27,6 @@ From the command prompt, move (cd) to the directory in which you would like to s
 ```
 $ mkdir algorithms 
 ```
-where algorithms is the name I give to the created directory. Move to the directory and open a session of your favorite text editor for Linux command line. 
+where algorithms is the name I give to the created directory. Move to the directory and open a session of your favorite text editor for Linux command line. (I use Vim editor )
+Paste the code I wrote up into the text editor. Write and quit the session. (:wq)
+You will be directed back to the linux terminal. 
