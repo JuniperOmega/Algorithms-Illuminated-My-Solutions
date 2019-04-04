@@ -46,8 +46,10 @@ To compile and run the file, type
 $ g++ example.cpp -o example.out 
 ```
 
-### 2. Clone a repository
+### 2. Or clone a repository
 To create a local copy on your computer and synchronize between the two locations, you can clone your repository.
 ```
 https://help.github.com/en/articles/cloning-a-repository
 ```
+
+once you have created a local copy of the repository, you can compile and run the file on the Linux command line.
