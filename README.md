@@ -4,7 +4,7 @@ I am following along a book series by Tim Roughgarden, based on online courses t
 
 ## Description
 
-My programming solutions are written in C++ using Windows 10 Ubuntu Bash Shell. Each of the topics I cover will include various ways to code the algorithm. The various algorithms/topics covered include: asymptotic analysis, big-O notation, divide-and-conquer algorithms, the master method, randomized algorithms, and several famous algorithms for sorting and selection.
+My programming solutions are written in C++ using Windows 10 Ubuntu Bash Shell. Each of the topics I cover will include various ways to code the algorithm. The algorithms/topics covered include: asymptotic analysis, big-O notation, divide-and-conquer algorithms, the master method, randomized algorithms, and several famous algorithms for sorting and selection.
 
 ## Table of contents
 * [Description](#Description)
