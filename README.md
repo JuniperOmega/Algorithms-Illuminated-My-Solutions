@@ -53,3 +53,6 @@ Type `git clone`, and then past the URL you copied
 $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 ```
 once you have created a local copy of the repository, you can compile and run the file on the Linux command line.
+```
+$ g++ example.cpp -o example.out 
+```
