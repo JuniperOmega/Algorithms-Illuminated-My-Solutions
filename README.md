@@ -17,8 +17,6 @@ To run any of these files, download/clone it locally to your machine. Feel free 
 If you would like to install Ubuntu on Windows 10 please follow the link below:
 
 ```
-Installation tutorial written by Chris Hoffman
-
 https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/
 ```
 Once your setup is complete and configured, you can download and save the file to a directory or clone a repository to create a local copy on your computer. 
@@ -47,9 +45,13 @@ $ g++ example.cpp -o example.out
 ```
 
 ### 2. Or clone a repository
-Alternatively, to create a local copy on your computer and synchronize between the two locations, you can clone "git clone" this repository to any directory.
-```
-https://help.github.com/en/articles/cloning-a-repository
-```
+Alternatively, to create a local copy on your computer and synchronize between the two locations, you can "git clone" this repository to any directory.
 
+Under the repository name, click **Clone or download.**
+Copy the clone URL for the repository.
+Type `git clone`, and then past the URL you copied  
+
+```
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+```
 once you have created a local copy of the repository, you can compile and run the file on the Linux command line.
