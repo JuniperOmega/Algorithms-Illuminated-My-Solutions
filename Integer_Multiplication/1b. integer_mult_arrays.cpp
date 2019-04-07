@@ -1,6 +1,5 @@
 #include <iostream>
 #include <cmath>
-#include <math.h>
 
 using namespace std;
 
@@ -94,12 +93,3 @@ void multiply(int arr[], int big, int cnt)
       cout << "Result: " << result << endl; 
 
 }
-
-
-
-
-
-
-
-
-
