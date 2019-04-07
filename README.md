@@ -59,7 +59,7 @@ Alternatively, to create a local copy on your computer and synchronize between t
 2. Open a Terminal
 Type `git clone`, and then past the URL you copied  
 ```
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+$ git clone https://github.com/JuniperOmega/Algorithms-Illuminated-My-Solutions.git
 ```
 3. Once you have created a local copy of the repository, you can compile and run the file on the Linux command line.
 ```
