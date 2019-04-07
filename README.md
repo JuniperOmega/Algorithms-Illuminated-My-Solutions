@@ -32,6 +32,7 @@ where algorithms is the name I give to the created directory.
 
 Move to the directory and open a session of your favorite text editor for Linux command line. (I use Vim editor)
 ```
+$ cd algorithms
 $ vim example.cpp
 ```
 This will open a blank text editor. (example) is the name of the file. You can name this whatever you would like.
