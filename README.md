@@ -47,7 +47,7 @@ $ g++ example.cpp -o example.out
 ```
 
 ### 2. Or clone a repository
-To create a local copy on your computer and synchronize between the two locations, you can clone your repository.
+Alternatively, to create a local copy on your computer and synchronize between the two locations, you can clone "git clone" this repository to any directory.
 ```
 https://help.github.com/en/articles/cloning-a-repository
 ```
