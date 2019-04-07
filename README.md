@@ -35,32 +35,33 @@ From the command prompt, move (cd) to the directory in which you would like to s
 ```
 $ mkdir algorithms 
 ```
-where algorithms is the name I give to the created directory. 
+where algorithms is the name of the created directory. 
 
-Move to the directory and open a session of your favorite text editor for Linux command line. (I use Vim editor)
+Move (cd) into the newly directory and open a session of your favorite text editor for Linux command line. (I use Vim always! WHY would anyone use anything else?! ;-). The commands in parenthesis will show some basic steps for someone to navigate in/out of Vim.)
 ```
 $ cd algorithms
-$ vim example.cpp
+$ vim whateverNameYouWant.cpp
 ```
-This will open a blank text editor. (example) is the name of the file. You can name this whatever you would like.
-(.cpp) is the extension type of a C++ file. 
-Copy and paste the code into the text editor you would like to run and compile. Write and quit the session (:wq). 
-This will save your work and quit the current seesion. (Make sure you are in NORMAL mode) You will then be redirected back to the Linux terminal. 
+This will open a new file named "whateverNameYouWant" in the Vim editor. The extension ".cpp" is commonly used for C++ files, but not exclusively. NOTE: GNU GCC recognises all of the following as C++ files, and will use C++ compilation regardless of whether you invoke it through gcc or g++: `.cc`, `.CPP`, `.c++`, `.cp`, or `.cxx`.
+
+Copy and paste the code into the text editor (Hopefully Vim!) you would like to run and compile. Write and quit the session (:wq). (VIM USERS! when typing commands using the ':' character, make sure you are in NORMAL mode).  You will then be redirected back to the Linux terminal. 
 
 To compile and run the file, type
 ```
-$ g++ example.cpp -o example.out 
+$ g++ whateverNameYouWant.cpp -o whateverName.out 
 ```
 
 #### 2. Or clone a repository
 Alternatively, to create a local copy on your computer and synchronize between the two locations, you can "git clone" this repository to any directory.
 
-Under the repository name, click **Clone or download.**  Copy the clone URL for the repository.  
+1. You are already on the main page directory! Under the repository name, click **Clone or download.**  Copy the clone URL for the repository. 
+
+2. Open a Terminal
 Type `git clone`, and then past the URL you copied  
 ```
 $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 ```
-once you have created a local copy of the repository, you can compile and run the file on the Linux command line.
+3. Once you have created a local copy of the repository, you can compile and run the file on the Linux command line.
 ```
 $ g++ example.cpp -o example.out 
 ```
