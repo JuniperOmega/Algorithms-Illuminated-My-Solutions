@@ -5,6 +5,8 @@ I am following along a book series by Tim Roughgarden, based on online courses t
 ## Table of contents
 * [Description](#Description)
 * [Setup](#Setup)
+* Item 2
+  * Item 2a
 * [Why Study Algorithms](#why-study-algorithms)
       * [Integer Multiplication](#integer-multiplication)
       * [Sorting Algorithms](#Sorting)
