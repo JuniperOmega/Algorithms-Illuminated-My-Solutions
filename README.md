@@ -56,3 +56,5 @@ once you have created a local copy of the repository, you can compile and run th
 ```
 $ g++ example.cpp -o example.out 
 ```
+
+## Usage
