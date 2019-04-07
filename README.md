@@ -47,8 +47,7 @@ $ g++ example.cpp -o example.out
 ### 2. Or clone a repository
 Alternatively, to create a local copy on your computer and synchronize between the two locations, you can "git clone" this repository to any directory.
 
-Under the repository name, click **Clone or download.**  
-Copy the clone URL for the repository.  
+Under the repository name, click **Clone or download.**  Copy the clone URL for the repository.  
 Type `git clone`, and then past the URL you copied  
 ```
 $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
